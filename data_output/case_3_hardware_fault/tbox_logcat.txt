@@ -1,0 +1,76 @@
+10-04 19:55:07.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:07.211   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:07.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:08.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:09.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:10.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:12.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:12.711   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:13.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:14.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:15.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:15.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:16.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:18.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:18.211   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:19.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:20.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:21.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:22.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:23.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:23.711   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:24.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:25.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:26.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:27.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:28.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:29.211   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:30.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:31.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:31.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:32.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:33.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:34.711   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:34.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:36.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:37.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:38.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:39.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:39.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:40.211   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:40.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:42.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:43.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:44.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:45.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:45.711   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:46.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:47.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:48.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:49.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:50.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:51.211   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:51.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:52.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:54.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:55.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:55.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:55:56.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:56.711   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:55:57.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:58.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:56:00.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:56:01.211  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:56:02.211   850  1120 D WifiMonitor: Scanning for networks...
+10-04 19:56:02.411  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:56:03.211  1011  2045 I TBoxMqtt: MQTT KeepAlive Ping Sent
+10-04 19:56:03.611  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:56:04.811  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:56:06.011  1000  1050 I ActivityManager: CPU usage normal, memory stable
+10-04 19:55:22.711  1011  2045 I TBoxMqtt: Received cmd: lock, req: req_succ_8645
+10-04 19:55:22.811  1011  2046 I CanHal: Enqueuing CAN ID: 0x3F2, Data: 00 (Lock)
+10-04 19:55:23.011  1011  2046 I CanHal: TX Success ID: 0x3F2
+10-04 19:55:48.711  1011  2045 I TBoxMqtt: Received cmd: unlock, req: req_fail_4871
+10-04 19:55:48.811  1011  2046 I CanHal: Enqueuing CAN ID: 0x3F2, Data: 01 (Unlock)
+10-04 19:55:48.911  1011  2046 I CanHal: TX Success ID: 0x3F2
+10-04 19:55:49.111  1011  2046 E VehicleControl: BCM reported hardware fault! Code: 0xEE

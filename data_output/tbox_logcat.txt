@@ -1,0 +1,4 @@
+10-04 18:51:44.275  1011  2045 I TBoxMqttClient: Received message on /vehicle/tbox/cmd: {"cmd": "unlock"}
+10-04 18:51:44.375  1011  2045 D VehicleControl: Parsing command: unlock
+10-04 18:51:44.475  1011  2046 I CanHalService: Enqueuing CAN frame ID: 0x3F2, Data: 01 00 00 00
+10-04 18:51:49.475  1011  2046 E CanHalService: CAN TX Timeout! Buffer full or bus off. ID: 0x3F2

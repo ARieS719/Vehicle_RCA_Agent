@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-04T18:51:43.075932", "topic": "/app/req", "payload": {"cmd": "unlock", "req_id": "req_8899"}, "level": "INFO"}
+{"timestamp": "2026-10-04T18:51:44.075932", "topic": "/vehicle/tbox/cmd", "payload": {"cmd": "unlock", "req_id": "req_8899"}, "level": "INFO"}
+{"timestamp": "2026-10-04T18:51:50.075932", "topic": "/vehicle/tbox/status", "error": "TIMEOUT_NO_RESPONSE", "req_id": "req_8899", "level": "ERROR"}

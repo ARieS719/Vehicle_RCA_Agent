@@ -1,0 +1,8 @@
+{"timestamp": "2026-10-04T19:55:07.204292", "topic": "/vehicle/status", "payload": {"batt": 85, "speed": 0}, "level": "DEBUG"}
+{"timestamp": "2026-10-04T19:55:22.204292", "topic": "/vehicle/status", "payload": {"batt": 85, "speed": 0}, "level": "DEBUG"}
+{"timestamp": "2026-10-04T19:55:37.204292", "topic": "/vehicle/status", "payload": {"batt": 85, "speed": 0}, "level": "DEBUG"}
+{"timestamp": "2026-10-04T19:55:52.204292", "topic": "/vehicle/status", "payload": {"batt": 85, "speed": 0}, "level": "DEBUG"}
+{"timestamp": "2026-10-04T19:55:21.204292", "topic": "/app/req", "payload": {"cmd": "lock", "req_id": "req_succ_6968"}, "level": "INFO"}
+{"timestamp": "2026-10-04T19:55:22.704292", "topic": "/vehicle/tbox/status", "payload": {"status": "SUCCESS", "req_id": "req_succ_6968"}, "level": "INFO"}
+{"timestamp": "2026-10-04T19:55:49.204292", "topic": "/app/req", "payload": {"cmd": "unlock", "req_id": "req_fail_1210"}, "level": "INFO"}
+{"timestamp": "2026-10-04T19:55:55.204292", "topic": "/vehicle/tbox/status", "error": "TIMEOUT_NO_RESPONSE", "req_id": "req_fail_1210", "level": "ERROR"}
