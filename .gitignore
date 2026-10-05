@@ -1,0 +1,14 @@
+# 虚拟环境
+venv/
+env/
+
+# 环境变量 (绝对不能上传)
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时生成的数据文件 (如果不想上传可以解开注释)
+# data_output/merged_timeline.txt
+# data_output/Final_RCA_Report_with_RAG.md
